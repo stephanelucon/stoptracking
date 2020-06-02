@@ -18,6 +18,6 @@ Packages référencés dans l'appli comme étant susceptibles de faire du tracki
 (incluse dans la version 1.0.1).
 
 
-# Vous souhaitez suggérer d'autres packages
-* Écrivez-nous à stoptracking2020@gmail.com.
-* Vous pouvez notamment identifier les noms de package des applications recensées ici : https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/.
+# Vous souhaitez suggérer d'autres packages ?
+* Écrivez à stoptracking2020@gmail.com.
+* Vous pouvez notamment identifier les noms de package des applications recensées sur ce lien (https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/), cela permettra de les inclure dans la liste d'appli identifées par stopTracking lors d'une prochaine mise à jour.
