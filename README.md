@@ -1,5 +1,6 @@
 # stopTracking
 Vérifiez si un package de tracking connu est installé sur votre téléphone
+
 Package : stop.trackingpeople
 
 Packages référencés dans l'appli comme étant susceptibles de faire du tracking gouvernemental :
